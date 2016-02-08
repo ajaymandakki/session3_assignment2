@@ -1,1 +1,21 @@
-
+th{
+	  width: 1200px;
+	  height: 74px;
+	  padding-left: 4px;
+	  padding-right: 4px;
+	  background-color: grey;
+}
+img{
+	margin-left: 50px;
+}
+p{
+	align:margin-left;
+	margin-left: 75px;
+}
+#wrap{
+	 width: 100px;
+}
+#wraps{
+	position: absolute;
+	margin-left: 5px;
+}
